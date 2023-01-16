@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/santanafx/aluraplay-requisicoes.git"
+    "url": "git+https://github.com/MonicaHillman/aluraplay-requisicoes.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/santanafx/aluraplay-requisicoes/issues"
+    "url": "https://github.com/MonicaHillman/aluraplay-requisicoes/issues"
   },
-  "homepage": "https://github.com/santanafx/aluraplay-requisicoes#readme",
+  "homepage": "https://github.com/MonicaHillman/aluraplay-requisicoes#readme",
   "dependencies": {
-    "json-server": "^0.17.1"
+    "json-server": "^0.17.0"
   }
 }
